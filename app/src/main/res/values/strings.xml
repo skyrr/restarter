@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Restarter</string>
+    <string name="submit">submit</string>
+    <string name="startService">startService</string>
+    <string name="stopService">stopService</string>
+    <string name="onClickStart">Start Service</string>
+    <string name="onClickStop">Stop Service</string>
+    <string name="showI">Show "i"</string>
+</resources>
